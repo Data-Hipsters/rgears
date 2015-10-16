@@ -1,1 +1,3 @@
-exportPattern("^[[:alpha:]]+")
+export(get_first)
+export(get_last)
+export(convert_class)

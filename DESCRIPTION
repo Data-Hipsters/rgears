@@ -1,9 +1,10 @@
 Package: rgears
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
-Date: 2015-10-16
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Title: Data Management Toolpak for Analyst
+Version: 0.1
+Date: 2015-10-14
+Author: Ethan Li <lc.ethan21@gmail.com>, Andrew Worsley <adworsley@gmail.com>, Junjie Zeng <jjzworkstation@gmail.com>
+Maintainer: Ethan Li <lc.ethan21@gmail.com>
+Description: Toolpak with helpful utility functions to support data analyst's daily duty.
+License: GPL (>= 2)
+LazyData: TRUE
